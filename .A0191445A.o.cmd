@@ -829,6 +829,7 @@ deps_/home/nirmal/Desktop/OS_assignment3/OS_assignment3/A0191445A.o := \
     $(wildcard include/config/x86/smap.h) \
   arch/x86/include/asm/extable.h \
   arch/x86/include/asm/uaccess_64.h \
+  include/linux/uaccess.h \
 
 /home/nirmal/Desktop/OS_assignment3/OS_assignment3/A0191445A.o: $(deps_/home/nirmal/Desktop/OS_assignment3/OS_assignment3/A0191445A.o)
 
