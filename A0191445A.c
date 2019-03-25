@@ -68,8 +68,7 @@ onebyte_data = kmalloc(sizeof(char), GFP_KERNEL);
 if (!onebyte_data) {
 onebyte_exit();
 // cannot allocate memory
-// return no memory error, negative signify a
-failure
+// return no memory error, negative signify a failure
 return -ENOMEM;
 }
 

@@ -1,0 +1,1 @@
+cmd_/home/nirmal/Desktop/OS_assignment3/OS_assignment3/A0191445A.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/nirmal/Desktop/OS_assignment3/OS_assignment3/A0191445A.ko /home/nirmal/Desktop/OS_assignment3/OS_assignment3/A0191445A.o /home/nirmal/Desktop/OS_assignment3/OS_assignment3/A0191445A.mod.o ;  true
